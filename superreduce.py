@@ -8,4 +8,3 @@ y=dict(x)
 for i,j in x.items():
     if j%2==0:
        del y[i]
-
